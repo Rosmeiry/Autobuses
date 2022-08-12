@@ -1,0 +1,6 @@
+C:\Users\roslastry\Downloads\Bus-system-control-main\capaDatos\bin\Debug\capaDatos.dll
+C:\Users\roslastry\Downloads\Bus-system-control-main\capaDatos\bin\Debug\capaDatos.pdb
+C:\Users\roslastry\Downloads\Bus-system-control-main\capaDatos\obj\Debug\capaDatos.csproj.AssemblyReference.cache
+C:\Users\roslastry\Downloads\Bus-system-control-main\capaDatos\obj\Debug\capaDatos.csproj.CoreCompileInputs.cache
+C:\Users\roslastry\Downloads\Bus-system-control-main\capaDatos\obj\Debug\capaDatos.dll
+C:\Users\roslastry\Downloads\Bus-system-control-main\capaDatos\obj\Debug\capaDatos.pdb
